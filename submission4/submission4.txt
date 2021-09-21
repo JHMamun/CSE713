@@ -1,0 +1,7 @@
+Youtube video link:
+(Link will be given here by 21/09 or 22/09)
+
+"Full Paper: Sentiment Analysis of YouTube Comments using Textblob
+
+Conference: 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI 2021)
+url: http://fse.green.edu.bd/sti-2021/

@@ -1,0 +1,7 @@
+Youtube video link:
+(Link will be given here by 21/09 or 22/09)
+
+Abstract Sumbission:
+Answer Similarity Analysis using Convolutional Neural Networks
+Track:   AAAI-22 Student Abstract and Poster Program
+url: https://aaai.org/Conferences/AAAI-22/
