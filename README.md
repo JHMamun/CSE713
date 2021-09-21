@@ -3,7 +3,9 @@ Submissions of Pattern Recognition course CSE713
 
 ## Individual Openrefine Submission 1 - 21166047, Jahid Hasan Mamun
 Enter into submission1 folder to get the openrefine video presentation of Jahid Hasan Mamun (21166047)
-[Submission 1](https://github.com/JHMamun/CSE713/tree/main/submission1)
+|Name|ID|Submission 1 : GitHub Folder|
+|-------|------|-----|
+|Jahid Hasan Mamun|21166047|[Submission 1](https://github.com/JHMamun/CSE713/tree/main/submission1)|
 
 ## Group works - Group 17
 You can check the all of the Group Work Submssions of GROUP 17 here:
