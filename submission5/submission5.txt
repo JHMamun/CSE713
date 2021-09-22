@@ -1,5 +1,5 @@
 Youtube video link:
-(Link will be given here by 21/09 or 22/09)
+https://youtu.be/nsccRMnU1kg
 
 Abstract Submission:
 Customer Review Analysis through Text Summarization and XAI,
