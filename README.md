@@ -1,14 +1,14 @@
 # CSE713
 Submissions of Pattern Recognition course CSE713
 
-## Individual Openrefine Submission 1 
+## Individual Openrefine: Submission 1 
 
 |Name|ID|Submission 1 : GitHub Folder|Youtube Link|
 |-------|------|-----|-----|
 |Jahid Hasan Mamun|21166047|[Submission 1](https://github.com/JHMamun/CSE713/tree/main/submission1)|[Video](https://youtu.be/wSYRxXXmW6E)|
 |Md Tarikul Islam|21166020|[Submission 1](https://github.com/tarikulislam786/713-repo/tree/main/CSE%20713/Submission1)|[Video](https://youtu.be/vIrre_lufvk)|
 
-## Group works - Group 17
+## Group works - Group 17: Submission 2,3,4,5,6
 You can check the all of the Group Work Submssions of GROUP 17 here:
 |Submission #|Description|GitHub Folder Link|Contents|
 |-------------|-----------|------------------|-------|
