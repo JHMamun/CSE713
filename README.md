@@ -1,7 +1,7 @@
 # CSE713
 Submissions of Pattern Recognition course CSE713
 
-## Individual Openrefine Submission 1 - 21166047, Jahid Hasan Mamun
+## Individual Openrefine Submission 1 
 
 |Name|ID|Submission 1 : GitHub Folder|Youtube Link|
 |-------|------|-----|-----|
