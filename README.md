@@ -32,4 +32,4 @@ You can check the all of the Group Work Submssions of GROUP 17 here:
 |16201074|Aryan Shresha|Abs.|Null|13.90|16.90|19.15|
 |16101040|SM Mushfiqur Rahman|Abs.|Abs.|18.20|14.40|19.15|
 
-Check/Verify Marks from pusblished Quiz Marks file: [Quiz Marks](https://docs.google.com/spreadsheets/d/1eS48AU26Iu-94pnYgcLOL84xQGmNRrMilmLTlP7CMPQ/edit#gid=2083290034)
+Check/Verify Marks from published Quiz Marks file: [Quiz Marks](https://docs.google.com/spreadsheets/d/1eS48AU26Iu-94pnYgcLOL84xQGmNRrMilmLTlP7CMPQ/edit#gid=2083290034)
