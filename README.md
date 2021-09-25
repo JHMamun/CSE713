@@ -8,6 +8,7 @@ Submissions of Pattern Recognition course CSE713
 |Jahid Hasan Mamun|21166047|[Submission 1](https://github.com/JHMamun/CSE713/tree/main/submission1)|[Video](https://youtu.be/wSYRxXXmW6E)|
 |S M Ibrahim|21166045|[Submission 1](https://gitlab.com/lavluda/CSE713/-/tree/main/submission1)|[Video](https://www.youtube.com/watch?v=WtIfQZFgdFU)|
 |Md Tarikul Islam|21166020|[Submission 1](https://github.com/tarikulislam786/713-repo/tree/main/CSE%20713/Submission1)|[Video](https://youtu.be/vIrre_lufvk)|
+|Md. Mofaqkhayrul Islam Mim|20266013|[Submission 1](https://github.com/Mofaqkhayrul/CSE-713/tree/main/submission1)|[Video](https://www.youtube.com/watch?v=ppq-05mD4O4)|
 
 
 ## Group works - Group 17: Submission 2,3,4,5,6
