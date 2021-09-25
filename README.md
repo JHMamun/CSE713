@@ -20,7 +20,7 @@ You can check the all of the Group Work Submssions of GROUP 17 here:
 |Submission 5|Abstract Submission: Submitted by [4 members](https://github.com/JHMamun/CSE713/blob/main/submission5/submitter.txt)|[Submission 5](https://github.com/JHMamun/CSE713/tree/main/submission5)|[Abstract](https://github.com/JHMamun/CSE713/blob/main/submission5/Customer_Review_Analysis_through_Text_Summarization_and_XAI.pdf), [Venue](https://aaai.org/Conferences/AAAI-22/), [Confirmation Email](https://github.com/JHMamun/CSE713/blob/main/submission5/ConfirmationEmail.pdf), [Slides](https://github.com/JHMamun/CSE713/blob/main/submission5/Customer%20Review%20Analysis%20through%20Text%20Summarization%20and%20XAI.pdf), [Presentation Video](https://youtu.be/nsccRMnU1kg)|
 |Submission 6|Abstract Submission: Submitted by [4 members](https://github.com/JHMamun/CSE713/blob/main/submission6/submitter.txt)|[Submission 6](https://github.com/JHMamun/CSE713/tree/main/submission6)|[Abstract](https://github.com/JHMamun/CSE713/blob/main/submission6/Answer_Similarity_Analysis_using_Convolutional_Neural_Networks.pdf), [Venue](https://aaai.org/Conferences/AAAI-22/), [Confirmation Email](https://github.com/JHMamun/CSE713/blob/main/submission6/ConfirmationEmail2.pdf), [Slides](https://github.com/JHMamun/CSE713/blob/main/submission6/Abstract_%20Answer%20Similarity%20Analysis%20using%20Convolutional%20Neural%20Networks.pdf), [Presentation Video](https://youtu.be/UKJAlI8gTAM)|
 
-## Group Members
+## Group Members - Quiz Marks #
 |ID|Name|Quiz 1|Quiz 2|Quiz 3|Quiz 4|Quiz 5|
 |----|-----|-----|-----|-----|-----|-----|
 |21166047|Jahid Hasan Mamun|20|19.65|18.20|20|19.15|
@@ -30,3 +30,4 @@ You can check the all of the Group Work Submssions of GROUP 17 here:
 |20266013|Md. Mofaqkhayrul Islam Mim|19.5|20|19.35|19.40|20|
 |16201074|Aryan Shresha|Abs.|Null|13.90|16.90|19.15|
 |16101040|SM Mushfiqur Rahman|Abs.|Abs.|18.20|14.40|19.15|
+Check/Verify Marks from pusblished Quiz Marks file: [Quiz Marks](https://docs.google.com/spreadsheets/d/1eS48AU26Iu-94pnYgcLOL84xQGmNRrMilmLTlP7CMPQ/edit#gid=2083290034)
